@@ -21,7 +21,6 @@ Hi! My name is **Luís Gustavo**. I am a computer student in high school<br />an
 ### Social
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 Image Designed by [Freepik](https://br.freepik.com/)
 
