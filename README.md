@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+Hi! My name is **Luís Gustavo**. I am a computer student in high school and aspire to be a **full-stack programmer**
 
 <!--
 **Low043/Low043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
