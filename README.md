@@ -1,7 +1,16 @@
-# About me
+![Snake animation](https://github.com/Low043/Low043/blob/output/github-contribution-grid-snake.svg)
+## About me
+<img align="right" src="https://github.com/Low043/Low043/blob/eebf834125a7fd0d61bc7e3336ae3d0014844c2e/Sem%20T%C3%ADtulo-2.png" width="500" height="500">
+
 Hi! My name is **Luís Gustavo**. I am a computer student in high school and aspire to be a **full-stack programmer**
-![Alt](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA)
-![]
+
+### Studying
+
+### Main skills
+![Alt](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
+
+
+Image Designed by [Freepik](https://br.freepik.com/)
 
 <!--
 **Low043/Low043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
