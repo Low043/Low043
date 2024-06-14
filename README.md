@@ -1,6 +1,6 @@
 # About me
 Hi! My name is **Luís Gustavo**. I am a computer student in high school and aspire to be a **full-stack programmer**
-
+![Alt](https://img.shields.io/badge/Discord-CCC?style=flat&logo=discord)
 <!--
 **Low043/Low043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
