@@ -1,7 +1,7 @@
 ## About me
-<img align="right" src="https://github.com/Low043/Low043/blob/eebf834125a7fd0d61bc7e3336ae3d0014844c2e/Sem%20T%C3%ADtulo-2.png" width="500" height="500">
+<img align="right" src="https://github.com/Low043/Low043/blob/aeaa4b0712b5535868332c39ac431769db11f640/Sem%20T%C3%ADtulo-2.png" width="350" height="350">
 
-Hi! My name is **Luís Gustavo**. I am a computer student in high school and aspire to be a **full-stack programmer**
+Hi! My name is **Luís Gustavo**. I am a computer student in high school<br />and aspire to be a **full-stack programmer**
 
 ### Studying
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,9 +19,9 @@ Hi! My name is **Luís Gustavo**. I am a computer student in high school and asp
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Social
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 Image Designed by [Freepik](https://br.freepik.com/)
 
