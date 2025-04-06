@@ -1,10 +1,10 @@
 ## About me
-<img align="right" src="https://streak-stats.demolab.com?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
-
 Hi! My name is **Luís Gustavo**.</br>
 I'm a high school IT student and aspire to become a full-stack developer.
 
-</br></br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
+</div>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
