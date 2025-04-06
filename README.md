@@ -1,10 +1,8 @@
 ## About me
+<img align="right" src="https://github.com/Low043/Low043/blob/aeaa4b0712b5535868332c39ac431769db11f640/Sem%20T%C3%ADtulo-2.png" width="350" height="350">
+
 Hi! My name is **Luís Gustavo**.</br>
 I'm a high school IT student and aspire to become a full-stack developer.
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
-</div>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +44,8 @@ I'm a high school IT student and aspire to become a full-stack developer.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavop/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/low043)
 
-<!--
-<img align="right" src="https://github.com/Low043/Low043/blob/aeaa4b0712b5535868332c39ac431769db11f640/Sem%20T%C3%ADtulo-2.png" width="350" height="350">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
+</div>
+
 Image Designed by [Freepik](https://br.freepik.com/)
--->
