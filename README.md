@@ -23,6 +23,8 @@ I'm a high school IT student and aspire to become a full-stack developer.
 ### Hosting Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 
 ### Libs and Tools
 ![JEST](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
