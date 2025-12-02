@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/Low043/Low043/blob/aeaa4b0712b5535868332c39ac431769db11f640/Sem%20T%C3%ADtulo-2.png" width="350" height="350">
 
 Hi! My name is **Luís Gustavo**.</br>
-I'm a high school IT student and aspire to become a full-stack developer.
+Software Developer focused on **Node.js** and **TypeScript**. I build scalable backend systems, modular desktop applications, and IoT solutions.
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
