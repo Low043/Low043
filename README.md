@@ -54,7 +54,7 @@ Software Developer focused on **Node.js** and **TypeScript**. I build scalable b
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/low043)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
+  <img src="https://readme-streak-gimkorb4e-lows-projects-79afde57.vercel.app/?user=Low043&background=212830&theme=rising-sun&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak">
 </div>
 
 Image Designed by [Freepik](https://br.freepik.com/)
